@@ -1,4 +1,4 @@
-### Hi there 👋 Full Stack 개발자를 꿈꾸는 정다운 입니다.
+## Full Stack 개발자를 꿈꾸는 정다운 입니다.🐤
 
 ⚒️ Skills
 ## Hard Skills
@@ -23,8 +23,11 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
+
 ## Soft Skills
+<div>
 - 리더쉽
 - 커뮤니케이션
 - 책임의식
 - 문제해결능력
+</div>
