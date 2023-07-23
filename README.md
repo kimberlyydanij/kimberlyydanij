@@ -1,7 +1,7 @@
 ## Full Stack 개발자를 꿈꾸는 정다운 입니다.🐤
 
-⚒️ Skills
-## Hard Skills
+ Skills
+## ⚒️ Hard Skills
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -24,10 +24,10 @@
   <br>
 </div>
 
-## Soft Skills
+##✨ Soft Skills
 <div>
-- 리더쉽
-- 커뮤니케이션
-- 책임의식
-- 문제해결능력
+리더쉽<br>
+커뮤니케이션<br>
+책임의식<br>
+문제해결능력
 </div>
